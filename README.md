@@ -3,7 +3,7 @@
 ## API Information
 
 ### Base URL
-```https://api.terarin-iw.jp/getFinaPoint```
+```https://api.terarin-iw.net/getFinaPoint```
 
 
 ### Parameters
